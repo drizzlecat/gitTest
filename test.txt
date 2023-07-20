@@ -2,3 +2,4 @@ testA
 testB
 testC
 testE
+from the remote repository
