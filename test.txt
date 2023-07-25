@@ -5,3 +5,4 @@ testE
 from the remote repository
 from the local repository
 add final test
+new test
